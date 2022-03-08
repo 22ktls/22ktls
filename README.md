@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src "https://wakatime.com/badge/github/22ktls/JavaHomework.svg"/>
